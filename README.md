@@ -1,4 +1,4 @@
-Olá, Sou o Bruno
+Olá, sou o Bruno
 
 Me interesso por temas relacionados à Ciência de Dados, sou graduado na área de negócios (Administração de Empresas com pós em Data Science),
 estudante de tecnologia e me situando na fronteira entre esses dois campos de conhecimento. 

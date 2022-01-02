@@ -1,7 +1,7 @@
 ## Olá, eu sou o Bruno 😎
 
 
-Me interesso por temas relacionados à Ciência de Dados, sou graduado na área de negócios (Administração de Empresas), em um MBA me especializei em Ciência de Dados, e sigo desenvolvendo e aperfeiçoando conhecimentos em programação científica e Machine Learnng.
+Me interesso por temas relacionados à Ciência de Dados, sou graduado na área de negócios (Administração de Empresas), em um MBA me especializei em Ciência de Dados, me apaixonei por esse tema e sigo desenvolvendo e aperfeiçoando conhecimentos em programação científica e Machine Learnng.
 
 Esta página está em construção e terá como objetivo conter meus notebooks de estudo e os projetos elaborados em aulas, para consultas futuras e alguns projetos pessoais para portifólio e demonstração.
 

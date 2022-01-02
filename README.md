@@ -3,7 +3,7 @@
 
 Me interesso por temas relacionados à Ciência de Dados, sou graduado na área de negócios (Administração de Empresas), em um MBA me especializei em Ciência de Dados, me apaixonei por esse tema e sigo desenvolvendo e aperfeiçoando conhecimentos em programação científica e Machine Learnng.
 
-⚠️ Esta página está em construção e terá como objetivo conter meus notebooks de estudo e os projetos elaborados em aulas, para consultas futuras e alguns projetos pessoais para portifólio e demonstração.
+⚠️ Esta página está em construção e terá como objetivo conter meus notebooks de estudo e os projetos elaborados em aulas, para consultas futuras e alguns projetos pessoais para portifólio e demonstração.<br/>
 
 <div>
   <a href="https://github.com/b-rns">
@@ -12,7 +12,7 @@ Me interesso por temas relacionados à Ciência de Dados, sou graduado na área 
   <img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rns&layout=compact&langs_count=7&theme=dark"/></a> 
 </div>
    
-   
+   ##
 <div style="display: inline_block"><br>
   <br/> 🛠️ Utilizo as linguagens de programação Python e R e suas principais bibliotecas e de ciência de dados para analise exploratória, visualização gráfica, ETL, modelagem e machine learning: <br/><br/>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

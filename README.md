@@ -10,7 +10,6 @@ Esta página está em construção e terá como objetivo conter meus notebooks d
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b-rns&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rns&layout=compact&langs_count=7&theme=dark"/></a> 
 </div>
-    
 
 <br/> 🛠️ Utilizo as linguagens de programação Python e R e suas principais bibliotecas e de ciência de dados, visuaização gráfica e machine learning: <br/>
    
@@ -19,9 +18,12 @@ Esta página está em construção e terá como objetivo conter meus notebooks d
   <img align="center" alt="Pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="RStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+   src="https://user-images.githubusercontent.com/83924147/147865231-48b3c0c8-ffea-43fc-b47d-34ea4e178de9.gif">
 </div>
   
- 
+
+  
   <br/> 📧 Pode me contatar diretamente pelo LinkedIn ou via E-mail:
   
   <div > 
@@ -29,4 +31,3 @@ Esta página está em construção e terá como objetivo conter meus notebooks d
   <a href = "mailto:brunorocha.nsc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-r-n-santos-70403015a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-

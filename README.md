@@ -26,3 +26,5 @@ Me interesso por temas relacionados à Ciência de Dados, sou graduado na área 
   <a href = "mailto:brunorocha.nsc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-r-n-santos-70403015a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+**Se você também se interessa por dados ou possui algum projeto de data science em que eu possa contribuir, conecte-se comigo e vamos desbravar estes dados juntos!!** 👊

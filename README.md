@@ -8,7 +8,7 @@ Me interesso por temas relacionados à Ciência de Dados, sou graduado na área 
 <div>
   <a href="https://github.com/b-rns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b-rns&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="jetgif" height=270" style="border-radius:50px;"src="https://user-images.githubusercontent.com/83924147/167540148-e518d449-9655-4847-97cb-57e7aa395619.gif">
+    <img align="right" alt="jetgif" height=270" style="border-radius:50px;"src="https://user-images.githubusercontent.com/83924147/167540985-ea9c20d3-8841-4ddd-8263-498497f074a5.gif">
   <img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rns&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
@@ -19,7 +19,7 @@ Me interesso por temas relacionados à Ciência de Dados, sou graduado na área 
   <img align="center" alt="Pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="RStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://user-images.githubusercontent.com/83924147/147865648-14e605ad-3170-4bd5-9d11-8debe2993a2a.gif">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;"src="https://user-images.githubusercontent.com/83924147/147865648-14e605ad-3170-4bd5-9d11-8debe2993a2a.gif">
 </div>
   <div > 
   <br/> 📧 Pode me contatar diretamente pelo LinkedIn ou via E-mail:<br/><br/>

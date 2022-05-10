@@ -8,10 +8,10 @@ Me interesso por temas relacionados à Ciência de Dados, sou graduado na área 
 <div>
   <a href="https://github.com/b-rns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b-rns&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="jetgif" height=270" style="border-radius:50px;"src="https://user-images.githubusercontent.com/83924147/147865620-1143bf85-b012-4842-ab52-7e244e87212c.gif">
+    <img align="right" alt="jetgif" height=270" style="border-radius:50px;"src="https://user-images.githubusercontent.com/83924147/167540148-e518d449-9655-4847-97cb-57e7aa395619.gif">
   <img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rns&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-   
+
    ##
 <div style="display: inline_block"><br>
   <br/> 🛠️ Utilizo as linguagens de programação Python e R e suas principais bibliotecas e de ciência de dados para analise exploratória, visualização gráfica, ETL, modelagem e machine learning: <br/><br/>
